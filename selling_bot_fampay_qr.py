@@ -24,7 +24,7 @@ from aiogram.types import (ReplyKeyboardMarkup, KeyboardButton, ReplyKeyboardRem
 # ==========================================
 # 1. CONFIGURATION 
 # ==========================================
-BOT_TOKEN = os.getenv("BOT_TOKEN", "")
+BOT_TOKEN = os.getenv("BOT_TOKEN", "8977319194:AAGYrRa4SzPqNIzS7307P3CmThFj7TIcQ20")
 BOT_USERNAME = "@UNKNOWNFFPANEL_BOT"
 ADMIN_ID = 5255460348
 ADMIN_CONTACT = "@Unknown_143_1"
@@ -34,7 +34,7 @@ USDT_TO_INR = 90.0
 
 # FreePanel / FamAPI payment gateway
 FREEPANEL_API_URL = "https://py.freepanel.in/api/v1/orders"
-FREEPANEL_REDIRECT_URL_DEFAULT = "https://t.me/UNKNOWNFFPANEL_BOT"
+FREEPANEL_REDIRECT_URL_DEFAULT = "https://t.me/UNKNOWNFFPANEL12_BOT"
 
 # FreePanel settings are stored in the DB 'settings' table and set via /admin.
 # Environment variables remain as a fallback.
